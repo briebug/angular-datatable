@@ -1,4 +1,4 @@
-import { DataTableParams,DataTableSortCallback } from '../components/types';
+import { DataTableParams } from '../components/types';
 
 
 export class DataTableResource<T> {
